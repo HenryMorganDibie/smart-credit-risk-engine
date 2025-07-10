@@ -56,7 +56,7 @@ streamlit run app/streamlit_app.py
 - Explain predictions using SHAP
 
 ## Project Structure
-
+<pre lang="markdown">
 smart_credit_risk_engine/
 │
 ├── app/
@@ -79,6 +79,7 @@ smart_credit_risk_engine/
 │
 ├── README.md                     # This file
 └── requirements.txt              # Python dependencies
+</pre>
 
 ## 🖼️ Screenshots
 
