@@ -42,9 +42,9 @@ python notebooks/train_model.py
 This saves the trained model to src/model.pkl.
 
 ### 5. Launch the Streamlit app
-
+```
 streamlit run app/streamlit_app.py
-
+```
 ## 🧠 How It Works
 
 ### 🔁 Pipeline Overview
