@@ -21,7 +21,7 @@ A transparent and interactive machine learning-powered application to assess and
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/smart_credit_risk_engine.git
+git clone [https://github.com/HenryMorganDibie/smart-credit-risk-engine.git]
 cd smart_credit_risk_engine
 ```
 
@@ -32,13 +32,13 @@ source venv/bin/activate    # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 ### 3. Add dataset
-
+```
 data/loan_applications.csv
-
+```
 ### 4. Train the ML model
-
+```
 python notebooks/train_model.py 
-
+```
 This saves the trained model to src/model.pkl.
 
 ### 5. Launch the Streamlit app
